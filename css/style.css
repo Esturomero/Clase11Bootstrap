@@ -1,0 +1,31 @@
+h1{
+    font-size: 8rem;
+}
+.color-boton{
+    background-color: aquamarine;
+    color: brown;
+}
+.btn:hover{
+    color: black ;
+    background-color:grey;
+    border-color: var(--bs-btn-hover-border-color);
+}
+.row{
+    justify-content: space-evenly;
+}
+.card{
+    background-color: blueviolet;
+}
+.navba{
+    padding: 2rem;
+}
+.color-nav{ 
+background-color: aqua;
+}
+.navbar-brand{ 
+    color: blue;
+}
+.carousel-padre{
+    width: 50vw;
+    margin: 0 auto;
+}
